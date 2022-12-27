@@ -1,5 +1,7 @@
 ## Make sure you read the license, if you see anyone selling these, please send me a message.
 
+This branch redraws the PCB to fit an original GBC Shell rather than the one with two screws on the side. 
+
 MBC30 Flashcart inspired by retroreboot's MBC3 cartridge.
 
 ## Ordering
